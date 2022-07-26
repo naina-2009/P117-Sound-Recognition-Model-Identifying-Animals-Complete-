@@ -1,0 +1,36 @@
+body
+{
+    background-color: blanchedalmond;
+    font-family: Edu VIC WA NT Beginner;
+    color: black;
+}
+
+#heading
+{
+    font-family: Inspiration;
+    font-size: 55px;
+}
+
+.header_div
+{
+    font-size: 20px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 10;
+    background-color: aqua;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+button
+{
+    background-color: blue;
+    width: 90px;
+    height: 40px;
+    font-size: 18px;
+    color: white;
+}
